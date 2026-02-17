@@ -54,8 +54,8 @@
   </tr>
 </table>
 
-<div align="center">
 ─────────────────────────୨ৎ────────────────────────────
-  
+
+<div align="center">
   <img src="https://i.pinimg.com/originals/5d/51/3e/5d513e92f1565d1798d14e65013d2af5.jpg" height="200" alt="vscode logo"  />
 <div/>
